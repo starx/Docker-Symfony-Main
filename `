@@ -1,0 +1,12 @@
+Use hadolint to check dockerfile
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Date :       Wed Dec 21 09:54:34 2022 +0100
+#
+# Sur la branche add-hadolint
+# Modifications qui seront validées :
+#	modifié :         .github/workflows/ci.yml
+#	modifié :         Dockerfile
+#
